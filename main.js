@@ -11,7 +11,12 @@
 // }
 
 //multiplyNumbers(1,2)
+<<<<<<< HEAD
 
 function divideNumbers(x,y){
     return x/y
+=======
+function anotherFunction(){
+    //insert code here
+>>>>>>> javascript
 }
