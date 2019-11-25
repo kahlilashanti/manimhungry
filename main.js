@@ -11,3 +11,6 @@
 // }
 
 //multiplyNumbers(1,2)
+function anotherFunction(){
+    //insert code here
+}
