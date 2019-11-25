@@ -11,3 +11,7 @@
 // }
 
 //multiplyNumbers(1,2)
+
+function divideNumbers(x,y){
+    return x/y
+}
